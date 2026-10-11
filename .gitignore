@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.backup
+app_backup*
+app_before_polish*
+detector_backup*
+detector_before*
+scenarios_backup*
+scenarios_before*
